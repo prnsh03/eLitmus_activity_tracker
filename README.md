@@ -19,9 +19,6 @@ And you can see your overall stats.
 
 If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/Stigmatoz/web-activity-time-tracker/issues).
 
-# Chrome Web Store
-
-Web Activity Time Tracker is available via the official [Chrome Web Store](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm).
 
 # Install as an extension from source
 
